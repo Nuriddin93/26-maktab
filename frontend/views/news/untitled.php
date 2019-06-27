@@ -1,0 +1,1 @@
+ <li class="event-time"><i class="fa fa-clock-o"></i>11:52 AM</li><?=$articles->categoryis->ismi;?> <?=$articles->categoryis->familyasi;?></a> </li>
